@@ -1,0 +1,39 @@
+export const OPEN_MODEL="OPEN_MODEL"
+export const CLOSE_MODEL="CLOSE_MODEL"
+export const OPEN_SIDEBAR="OPEN_SIDEBAR"
+export const CLOSE_SIDEBAR="CLOSE_SIDEBAR"
+
+export const INCREASE="INCREASE"
+export const DECREASE="DECREASE"
+
+export const REMOVE="REMOVE"
+
+export const CLEAR_ALL="CLEAR_ALL"
+
+export const COUNT_AMOUNT="COUNT_AMOUNT"
+export const TOTAL_AMOUNT="TOTAL_AMOUNT"
+
+export const CHANGE="CHANGE"
+
+
+export const COCTAIL_DATA="COCTAIL_DATA"
+
+export const SINGLE="SINGLE"
+
+
+export const OPEN_PRODUCT="OPEN_PRODUCT"
+export const CLOSE_PRODUCT="CLOSE_PRODUCT"
+export const OPEN_COMPANY="OPEN_COMPANY"
+export const CLOSE_COMPANY="CLOSE_COMPANY"
+export const OPEN_DEVELOPER="OPEN_DEVELOPER"
+export const CLOSE_DEVELOPER="CLOSE_DEVELOPER"
+
+
+export const FIRST_NUMBER="FIRST_NUMBER"
+export const SECOND_NUMBER="SECOND_NUMBER"
+export const RESULT="RESULT"
+export const GET_SINGN="GET_SIGN"
+
+
+export const DELETE_ALL="DELETE_ALL"
+export const DELETE_LAST="DELETE_LAST"

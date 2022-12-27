@@ -1,0 +1,14 @@
+.keyboard-main{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    gap: 10px;
+}
+
+.key{
+    cursor: pointer;
+background: gray;
+padding: 10px;
+border-radius: 8px;
+display: grid;
+place-items: center
+}
